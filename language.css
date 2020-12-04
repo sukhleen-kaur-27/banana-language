@@ -16,6 +16,7 @@ body{
     --primary-color:rgb(245, 245, 9);
     --secondary-color:#d3e01c;
     --background-color:#E5E7EB;
+    --tertiary-color: rgb(236, 236, 187);
 }
 .container{
     padding-left:1rem;
@@ -48,7 +49,7 @@ body{
     border-color:black;
     font-family: 'East Sea Dokdo', cursive;
     font-size:xx-large;
-    background-color: transparent;
+    background-color:var(--tertiary-color);
 }
 
 .text-changes{
