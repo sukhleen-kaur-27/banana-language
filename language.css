@@ -6,6 +6,10 @@ body{
      cursive;
      background-color: rgb(236, 236, 187);
     /* margin: 0px; */
+    background-image: url("bananaimg2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 :root{
@@ -44,6 +48,7 @@ body{
     border-color:black;
     font-family: 'East Sea Dokdo', cursive;
     font-size:xx-large;
+    background-color: transparent;
 }
 
 .text-changes{
