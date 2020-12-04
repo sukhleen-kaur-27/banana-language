@@ -106,3 +106,7 @@ body{
  max-width: 350px;
   right: 350px;
 }
+
+.site-logo {
+    margin-left: 20px;
+  }
